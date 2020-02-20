@@ -171,7 +171,7 @@ document.getElementById('latestTraumatology').innerHTML = (traUlt.paciente + ' -
 
 // Función para llamar pacientes, rut, y previsión de Traumatología
 
-var longitudDos = dental.length;
+var longitudTres = dental.length;
 
 var denPri = dental[0];
 var denUlt = dental[dental.length-1];
